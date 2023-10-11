@@ -9,7 +9,11 @@ public class HelloGit {
 		System.out.println("update2");
 		System.out.println("update3");
 		System.out.println("创建分支");
+<<<<<<< HEAD
 		System.out.println("主干添加");
+=======
+		System.out.println("分支添加");
+>>>>>>> refs/heads/dev
 		
 	}
 
